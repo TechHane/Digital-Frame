@@ -18,7 +18,7 @@ Uygulama indirmek gerekmez, tarayıcı yeterlidir.
 2. [İlk kurulumu tamamla](docs/ILK-KURULUM.md).
 3. [Fotoğraf yükle ve kullan](docs/KULLANIM.md).
 
-![ESP32, ILI9341 ve harici microSD bağlantı şeması](docs/baglanti-semasi.png)
+![ESP32, ILI9341 ve harici microSD bağlantı şeması ](docs/baglanti-semasi.png)
 
 ## Gerekenler
 
